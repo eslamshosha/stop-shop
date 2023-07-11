@@ -750,6 +750,7 @@ html[dir="rtl"] .fixed-search i {
   }
   .category-box {
     font-size: 14px;
+    padding: 20px 0;
   }
   .category-box span {
     min-height: 40px;
