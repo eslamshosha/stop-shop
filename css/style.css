@@ -758,9 +758,12 @@ html[dir="rtl"] .fixed-search i {
   .category-box figure {
     width: 100%;
     max-width: 100%;
+    margin-bottom: 12px;
+    max-height: 65px;
   }
   .category-box img {
-    max-width: 80%;
+    max-width: 50%;    
+
   }
 }
 /*                       category-section                             */
